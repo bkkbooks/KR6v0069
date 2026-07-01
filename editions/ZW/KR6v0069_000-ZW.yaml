@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0069/zw/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 雲南阿吒力教經典及其在中國佛教研究中的價值
+  edition:
+    short: zw
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW06/ZW06n0057.xml
+    old_id: ZW06n0057
+hash: sha256:50deceda3263c5bfa0b866ccd6da3dfeb37f3a7fec140257fa0f8849b23f8ffa
