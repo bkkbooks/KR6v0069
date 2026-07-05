@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0069_000.yaml, hash: 'sha256:50deceda3263c5bfa0b866ccd6da3dfeb37f3a7fec140257fa0f8849b23f8ffa'}
-  - {seq: 1, filename: KR6v0069_001.yaml, hash: 'sha256:1d68729cf1aafceccdbdb8de1e2cec1816959bcd6651b401050fd4aa37109db0'}
+  - {seq: 1, filename: KR6v0069_001.yaml, hash: 'sha256:b38b01f2fa0815b17e8bda46312725f31f4ef3991df7c1b4db6d9c60b1907733'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0069_001.markers.yaml, hash: 'sha256:d02ce4d011a468e6febe36c3ca88f69676e41539def5ba2628dcd66673f99ead'}
+  - {seq: 0, role: markers, filename: assets/KR6v0069_000.markers.yaml, hash: 'sha256:bce10895eaf9fdaf0cca15ee23e7b39f585c513e96ffd2505a2d5d9e2c486907'}
+  - {seq: 1, role: markers, filename: assets/KR6v0069_001.markers.yaml, hash: 'sha256:c1288c51d508d6c07405500175a72150e71a145405cec9786bc7db11ce46be1b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -78,7 +79,4 @@ table_of_contents:
   label: 三、阿吒力教經典是研究中國民俗佛教的重要資料
   type: mulu
   level: 1
-hash: sha256:d096bf87e331be6a7a609e86f0ef30af3412e7307042c6bfcd4a08b4b8c29856
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:405a5f546248af4501e78ccc73168bd1172ec4847ecb5379945787561c743493
