@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0069/v1
 canonical_location: https://kanripo.org/bkk/KR6v0069/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 雲南阿吒力教經典及其在中國佛教研究中的價值
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0069_000.yaml, hash: 'sha256:50deceda3263c5bfa0b866ccd6da3dfeb37f3a7fec140257fa0f8849b23f8ffa'}
-  - {seq: 1, filename: KR6v0069_001.yaml, hash: 'sha256:b38b01f2fa0815b17e8bda46312725f31f4ef3991df7c1b4db6d9c60b1907733'}
+  - {seq: 1, filename: KR6v0069_001.yaml, hash: 'sha256:b7f8d195003411122d71ff60b422e7158949bb9437a50b9887c1c2d0a6100fd2'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0069_000.markers.yaml, hash: 'sha256:bce10895eaf9fdaf0cca15ee23e7b39f585c513e96ffd2505a2d5d9e2c486907'}
-  - {seq: 1, role: markers, filename: assets/KR6v0069_001.markers.yaml, hash: 'sha256:c1288c51d508d6c07405500175a72150e71a145405cec9786bc7db11ce46be1b'}
+  - {seq: 1, role: markers, filename: assets/KR6v0069_001.markers.yaml, hash: 'sha256:53c1def8b5e9c6e4511c3fc7e1967e03ff4deb1bb6f004fd26f993101014e41b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -79,4 +79,7 @@ table_of_contents:
   label: 三、阿吒力教經典是研究中國民俗佛教的重要資料
   type: mulu
   level: 1
-hash: sha256:405a5f546248af4501e78ccc73168bd1172ec4847ecb5379945787561c743493
+hash: sha256:82b524d208281b5ce026f83ba9b254b5c808c3371da80715c6ec5a6aec00df93
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
